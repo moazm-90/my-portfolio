@@ -1,2 +1,3 @@
-# My student Portfolio 
-A simple project to learn Git.
+# My Student Portfolio
+
+Goals: Master Git and GitHub!
